@@ -5,7 +5,6 @@ The arm64 code was tested on a Raspberry Pi running Ubuntu 18.04.4 LTS (GNU/Linu
 
 ## License
 
-Please see the [LICENSE] file for the exact details.
 Please see the [LICENSE](LICENSE) file for the exact details.
 
 ## sc_mapped 
